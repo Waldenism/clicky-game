@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "dreamcast",
+    "image": "./system_images/dreamcast.jpg",
+    "generation": "?",
+    "release": "199X"
+  },
+  {
+    "id": 2,
+    "name": "gamecube",
+    "image": "./system_images/gamecube.jpg",
+    "generation": "",
+    "release": "2000"
+  },
+  {
+    "id": 3,
+    "name": "genesis",
+    "image": "./system_images/genesis.jpg",
+    "generation": "",
+    "release": "1989"
+  },
+  {
+    "id": 4,
+    "name": "mastersystem",
+    "image": "./system_images/mastersystem.jpg",
+    "generation": "",
+    "release": "1985"
+  },
+  {
+    "id": 5,
+    "name": "neogeo",
+    "image": "./system_images/neogeo.jpg",
+    "generation": "",
+    "released": "1990"
+  },
+  {
+    "id": 6,
+    "name": "playstation",
+    "image": "./system_images/playstation.png",
+    "generation": "",
+    "released": "dfalkdhfkpash"
+  }
+]
